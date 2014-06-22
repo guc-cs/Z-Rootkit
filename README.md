@@ -15,13 +15,12 @@ intended to discover their presence.
 
 2- Project features
 ===================
-1. Communication with the rootktit
-2. Obtaining Root Access
-3. Hiding the rootkit
-4. Hiding a process
-5. KeyLogger
-6. Sending KeyLogs
-7. Hiding Sockets
+1. Obtaining Root Access
+2. Hiding our rootkit
+3. Hiding processes
+4. KeyLogger
+5. Sending KeyLogs
+6. Hiding Sockets
 
 
 3- Youtube Demo
