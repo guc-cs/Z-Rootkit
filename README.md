@@ -26,11 +26,7 @@ Project features
 Demo + Howto
 ------------
 
-<div class="video" style="width: 640px; height: 360px; overflow: hidden; position: relative;"><iframe frameborder="0" scrolling="no" seamless="seamless" webkitallowfullscreen="webkitAllowFullScreen" mozallowfullscreen="mozallowfullscreen" allowfullscreen="allowfullscreen" id="okplayer" width="640" height="360" src="http://youtube.com/embed/RJS4fhglBjk&amp;feature=youtu.be?loop=1&amp;hd=1&amp;controls=0&amp;showinfo=0&amp;modestbranding=1&amp;iv_load_policy=3&amp;rel=0&amp;playlist=RJS4fhglBjk&amp;feature=youtu.be" style="position: absolute; top: 0px; left: 0px; width: 640px; height: 360px;"></iframe></div>
-
-(Demo link)[http://youtu.be/RJS4fhglBjk]
-
-
+[![Rootkit Demo](http://img.youtube.com/vi/RJS4fhglBjk/0.jpg)](http://youtu.be/RJS4fhglBjk)
 
 Project Contributors
 --------------------
