@@ -15,27 +15,28 @@ intended to discover their presence.
 
 2- Project features
 ===================
-2.1 Communication with the
-2.2 Obtaining Root Access
-2.3 Hiding the rootkit
-2.4 Hiding a process
-2.5 KeyLogger
-2.6 Sending KeyLogs
-2.7 Hiding Sockets
+1. Communication with the rootktit
+2. Obtaining Root Access
+3. Hiding the rootkit
+4. Hiding a process
+5. KeyLogger
+6. Sending KeyLogs
+7. Hiding Sockets
 
 
 3- Youtube Demo
 ===============
-http://youtu.be/RJS4fhglBjk
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/RJS4fhglBjk/0.jpg)](http://youtu.be/RJS4fhglBjk)
+
 
 
 4-Project Contributors
 ======================
-Ahmed Sanad
-Hussein AboelSeoud
-Kareem Ahmed
-Mohamed Khaled
-Mohamed ALZayat
+1. Ahmed Sanad
+2. Hussein AboelSeoud
+3. Kareem Ahmed
+4. Mohamed Khaled
+5. Mohamed ALZayat
 
 
 
